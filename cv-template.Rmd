@@ -13,14 +13,14 @@ author: Cristian Rohr
 name: Cristian
 lastname: Rohr
 jobtitle: Bioinformático 
-address: Barrichuelo de Cartuja N°15, Granada - España
+address: Your address
 
 fontawesome: yes
-email: cristianrohr768@gmail.com - cristian.rohr@heritas.com.ar
+email: your_mail - your_mail
 github: your_github
 linkedin: cristianrohrbio
 twitter: your_twitter
-phone: "+34 667283297"
+phone: "+55 55555555"
 web: cristianrohr.github.io
 updated: no
 
