@@ -1,7 +1,10 @@
 # RMarkdown resume/CV template
 
-Based on templates by [svmiller](https://github.com/svmiller/svm-r-markdown-templates) and [ryanpeek](https://github.com/ryanpeek/markdown_cv). The only two files that are required to run the RMarkdown is `cv-template.Rmd` and `cv-template.tex`, which should be stored in the same directory.
+Based on [isteves](https://github.com/isteves/resume) template, previously bases on templates by [svmiller](https://github.com/svmiller/svm-r-markdown-templates) and [ryanpeek](https://github.com/ryanpeek/markdown_cv). I changed the font to Helvetica Neu, and added new styles in the `cv-template.tex` file. The document is written in markdown and latex.
 
-What you write in the fields is completely customizable if you know some Markdown. How you format the document requires LaTeX.
+## Instructions
+Modify the yaml header `cv-template.Rmd` to match your personal data. Edit the resume data in the markdown body. 
 
-![](images/cv-pdf.PNG)
+Latex styles are in `cv-template.tex`.
+
+![](images/new_CR.png)
