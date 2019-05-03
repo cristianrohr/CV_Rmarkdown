@@ -1,6 +1,8 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
 
 
+\usepackage{graphicx}
+
 % -------------------------------------------------------
 % Cambios para que use helvetica neu como fuente
 % Visto en: https://tex.stackexchange.com/questions/121061/working-with-arial-or-helvetica-fonts
@@ -273,6 +275,7 @@ $endif$
 % Begin document
 \begin{document}
 
+
 \centerline{\huge $name$ \bf $lastname$}
 \centerline{\textcolor{awesome-red} {\textbullet $jobtitle$\textbullet}}
 \centerline{\textcolor{mygray} {$address$} | $if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$}
@@ -290,11 +293,10 @@ $endif$
 		%Linkedin
 		$if(linkedin)$$if(fontawesome)$\faLinkedin \hspace{1 mm}$else$\emph{Linkedin:}$endif$ \href{http://linkedin.com/in/$linkedin$}{\color{black} $linkedin$} \hspace{1 mm} |$endif$
 		%website
-	$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$}
+	$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$}\hfill 
+\smash{\includegraphics[width=2cm]{CR.jpg}}
 
-
-\vspace{1 mm}
-
+%\vspace{1 mm}
 %\hrule
 
 
