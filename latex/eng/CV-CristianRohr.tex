@@ -1,0 +1,233 @@
+%%%%%%%%%%%%%%%%%
+% This is an sample CV template created using altacv.cls
+% (v1.1.5, 1 December 2018) written by LianTze Lim (liantze@gmail.com). Now compiles with pdfLaTeX, XeLaTeX and LuaLaTeX.
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% If you need to pass whatever options to xcolor
+\PassOptionsToPackage{dvipsnames}{xcolor}
+
+%% If you are using \orcid or academicons
+%% icons, make sure you have the academicons
+%% option here, and compile with XeLaTeX
+%% or LuaLaTeX.
+% \documentclass[10pt,a4paper,academicons]{altacv}
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e]{altacv}
+
+%% AltaCV uses the fontawesome and academicon fonts
+%% and packages.
+%% See texdoc.net/pkg/fontawecome and http://texdoc.net/pkg/academicons for full list of symbols. You MUST compile with XeLaTeX or LuaLaTeX if you want to use academicons.
+
+% Change the page layout if you need to
+\geometry{left=1cm,right=9cm,marginparwidth=6.8cm,marginparsep=1.2cm,top=1.25cm,bottom=1.25cm}
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage[default]{lato}
+\fi
+
+% Change the colours if you want to
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+\definecolor{blue(ncs)}{rgb}{0.0, 0.53, 0.74}
+\definecolor{CRColor}{HTML}{6699ff}
+
+\definecolor{reglas}{HTML}{5588a3}
+\definecolor{head1}{HTML}{145374}
+
+\definecolor{Mulberry}{HTML}{72243D}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+
+\colorlet{heading}{head1}
+\colorlet{accent}{reglas}
+
+%\colorlet{heading}{Sepia}
+%\colorlet{accent}{Mulberry}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% sample.bib contains your publications
+%\usepackage[citestyle=authoryear,bibstyle=authoryear,
+%             maxbibnames=10,giveninits=true,natbib=true,doi=false,url=false,
+%             isbn=false,dashed=false,uniquelist=false,uniquename=false,backend=biber]{biblatex}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{citasCR.bib}
+
+\begin{document}
+\name{Cristian Rohr}
+\tagline{Data Scientist | Bioinformatician}
+\photo{2.8cm}{CR_foto}
+\personalinfo{%
+  % Not all of these are required!
+  % You can add your own with \printinfo{symbol}{detail}
+  \email{cristianrohr768@gmail.com - cristianrohr@correo.ugr.es}
+  \phone{+34 667283297}
+  \mailaddress{Barrichuelo de Cartuja 15 - Piso 1 Puerta 1}
+  \location{Granada, ESPAÑA}
+  \homepage{cristianrohr.github.io}
+%  \twitter{@twitterhandle}
+  \linkedin{linkedin.com/in/cristianrohrbio}
+  \github{github.com/cristianrohr}
+  %% You MUST add the academicons option to \documentclass, then compile with LuaLaTeX or XeLaTeX, if you want to use \orcid or other academicons commands.
+  % \orcid{orcid.org/0000-0000-0000-0000}
+}
+
+%% Make the header extend all the way to the right, if you want.
+\begin{fullwidth}
+\makecvheader
+\end{fullwidth}
+
+%% Depending on your tastes, you may want to make fonts of itemize environments slightly smaller
+% \AtBeginEnvironment{itemize}{\small}
+
+%% Provide the file name containing the sidebar contents as an optional parameter to \cvsection.
+%% You can always just use \marginpar{...} if you do
+%% not need to align the top of the contents to any
+%% \cvsection title in the "main" bar.
+
+\cvsection[sample-p1sidebar]{Profile}
+
+More than 8 years of experience in data analysis, both in the industry where I was part of interdisciplinary teams in the area of ​​translational medicine leading two commercially available products, as well as in the field of research where I have a good record of publications, presentations in congress and teaching experience.
+
+My interests are focused on the application of machine learning and big data techniques, and applied bioinformatics.
+
+\medskip
+
+\cvsection{Experience}
+
+\cvevent{Data Science Specialist / Bioinformatics Leader}{Héritas}{Octubre 2018 -- }{Rosario, Argentina}
+%\begin{itemize}
+%\item 
+Remote coordination of two people who work as Analysts in the Data Science Platform.
+%\end{itemize}
+
+\divider
+
+\cvevent{Data Scientist / Bioinformatician}{Héritas/INDEAR}{April 2016 -- Sept. 2018}{Rosario, Argentina}
+\begin{itemize}
+\item Development, implementation and deployment of the algorithms and predictive models of the non-invasive prenatal test
+Héritas VISION, and of the microbiome intestinal test MicroXplora Héritas.
+\item Development of tools and packages in Shiny / R to automate tasks and assist genetic analysts in various
+products such as the liquid biopsies test Héritas OncoSens, Héritas Focus, Héritas CLEAR
+\item Design, development, implementation and maintenance of genomic analysis pipelines in high performance computing environments
+for several internal R & D applications of the company: 16S metagenomics, RNAseq, assembly of bacterial genomes, genotyping by sequencing.
+\item Analysis of insertion sequences in transgenic events for deregulation in international markets.
+\end{itemize}
+
+\cvsection{Academic Experience}
+
+\cvevent{Research Assistant}{Medical Genomics and Evolution Laboratory, FCEyN - UBA}{April 2013 -- April 2016}{Buenos Aires, Argentina}
+%\begin{itemize}
+%\item Colaboración en proyectos de investigación e I+D con diversas instituciones del ámbito público y privado.
+%\item Desarrollo e implementación de bases de datos y servidores web para el análisis/visualización de datos obtenidos con
+%paneles de secuenciación de tecnologías Ion Torrent de Life Technologies.
+%\item Desarrollo de paneles personalizados para el screening de enfermedades humanas.
+%\end{itemize}
+
+\divider
+
+
+\cvevent{Research Assistant}{Agrobiotechnology Laboratory - FCEyN, UBA}{Sept. 2011 -- Mach 2013}{Buenos Aires, Argentina}
+%\begin{itemize}
+%\item Participe en diversos proyectos del laboratorio como ser RNAseq y creación de bases de datos.
+%\item Implementación de soluciones bioinformáticas para actividades rutinarias desarrolladas en el laboratorio.
+%\end{itemize}
+
+\clearpage
+\cvsection[page2sidebar]{Teaching}
+
+\cvevent{Head of practical assignments}{University of Buenos Aires}{2015}{Buenos Aires, Argentina}
+%\begin{itemize}
+%\item 
+Postgraduate course: “Genómica de poblaciones y enfermedades”. Departamento de Ecología, Genética y Evolución, FCEyN
+%\end{itemize}
+
+\divider
+
+\cvevent{Head of practical assignments}{University of Buenos Aires}{2014}{Buenos Aires, Argentina}
+%\begin{itemize}
+%\item 
+Postgraduate course: “Genómica humana: variación, adaptación y poblaciones”. Departamento de Ecología, Genética y Evolución, FCEyN
+%\end{itemize}
+
+\divider
+
+\cvevent{Guest teacher}{RSG Argentina}{2012}{}
+%\begin{itemize}
+%\item 
+"Perl and Bioperl applied to bioinformatics"
+%\end{itemize}
+
+\cvsection{Presentations in Conferences}
+
+\cvevent{Héritas VISION: The challenge to develop the first Non Invasive Prenatal Testing (NIPT) Platform in Argentina}{8vo Congreso Argentino de Bioinformática y Biología Computacional (8CA2BC)}{26-29 Noviembre de 2017}{Posadas, Argentina}
+
+\cvevent{Using Oxford Nanopore MinION technology to deeply explore metagenome functions in the Argentine Human microbiome dataset characterised by Illumina 16s metagenomics pipeline}{Fourth International Society for Computational Biology Latin America Bioinformatics Conference (ISCB-LA) and the 7th Argentinian Congress of Bioinformatics and Computational Biology (CAB2C)}{21-23 Noviembre de 2016}{Buenos Aires, Argentina}
+
+\cvevent{INSECT: Una herramienta para descomponer redes complejas de regulación génica}{1er Encuentro de estudiantes de bioinformática y biología computacional}{25-26 Noviembre de 2014}{Buenos Aires, Argentina}
+
+
+\cvevent{A Web Server for the Standardization of Molecular Diagnosis of Huntington’s Disease in Latin America}{IV Argentinean Conference on Computational Biology and Bioinformatics \& the IV Conference of the Iberoamerican Society for Bioinformatics}{29-31 Octubre de 2013}{Rosario, Argentina}
+
+
+\cvevent{Bioinformatics annotation of Pycnoporus sanguineus BAFC 2126 transcriptome}{IV Argentinean Conference on Computational Biology and Bioinformatics \& the IV Conference of the Iberoamerican Society for Bioinformatics}{29-31 Octubre de 2013}{Rosario, Argentina}
+
+
+
+
+
+%\clearpage
+%\cvsection{Publicaciones}
+
+%\divider
+
+%\printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
+
+%% If the NEXT page doesn't start with a \cvsection but you'd
+%% still like to add a sidebar, then use this command on THIS
+%% page to add it. The optional argument lets you pull up the
+%% sidebar a bit so that it looks aligned with the top of the
+%% main column.
+% \addnextpagesidebar[-1ex]{page3sidebar}
+
+\clearpage
+\cvsection[page3sidebar]{Publications}
+
+
+\nocite{*}
+
+%\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+
+%\divider
+
+\printbibliography[heading=pubtype,title={\printinfo{\faFileTextO}{Peer reviewed}},type=article]
+
+%\divider
+
+%\printbibliography[heading=pubtype,title={\printinfo{\faGroup}{Conference Proceedings}},type=inproceedings]
+
+
+\end{document}

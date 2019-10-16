@@ -1,0 +1,1064 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{rohrdevelopment}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=bb9f5525d64eb589bf25de74ba4ff29d}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={Gonzalo},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{a547187d1c076d19863d42bf05c3017b}
+      \strng{fullhash}{a547187d1c076d19863d42bf05c3017b}
+      \strng{bibnamehash}{a547187d1c076d19863d42bf05c3017b}
+      \strng{authorbibnamehash}{a547187d1c076d19863d42bf05c3017b}
+      \strng{authornamehash}{a547187d1c076d19863d42bf05c3017b}
+      \strng{authorfullhash}{a547187d1c076d19863d42bf05c3017b}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2º CONGRESO ARGENTINO DE BIOINFORM{Á}TICA Y BIOLOG{Í}A COMPUTACIONAL}
+      \field{title}{Development of a bioinformatics strategy to search for genes involved in specific metabolic pathways: The case of ESCs}
+      \field{pages}{53}
+      \range{pages}{1}
+    \endentry
+    \entry{pinero2019different}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=ed8ad0f47258fa0a8a1ba07525edf3ff}{%
+           family={Pi{ñ}ero},
+           familyi={P\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=86ef15467a4d429c1e05d367374e6eb3}{%
+           family={Vazquez},
+           familyi={V\bibinitperiod},
+           given={Mart{ı́}n},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=3e0c42a967c5be6c9a8b517361ceaa4b}{%
+           family={Bar{é}},
+           familyi={B\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52dd9abb94a60faa9add9bbd9217b4fa}{%
+           family={Mendizabal},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=350ecdada20f8e01128d3b24eee44a1a}{%
+           family={Sciara},
+           familyi={S\bibinitperiod},
+           given={Mariela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a65bc068fd52af35fb16028d349e47b5}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d020692f80c42d4beeb7376d7222c2a0}{%
+           family={Fay},
+           familyi={F\bibinitperiod},
+           given={Fabi{á}n},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4bf7a7ca0004f72a529857781725fe77}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c0b6e9da149c7bd470b9ca865de26bd1}
+      \strng{fullhash}{21a4e2280652e4c48e5e54f18dac501a}
+      \strng{bibnamehash}{c0b6e9da149c7bd470b9ca865de26bd1}
+      \strng{authorbibnamehash}{c0b6e9da149c7bd470b9ca865de26bd1}
+      \strng{authornamehash}{c0b6e9da149c7bd470b9ca865de26bd1}
+      \strng{authorfullhash}{21a4e2280652e4c48e5e54f18dac501a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of hepatology}
+      \field{title}{A different gut microbiome linked to inflammation found in cirrhotic patients with and without hepatocellular carcinoma}
+      \field{year}{2019}
+    \endentry
+    \entry{gosso2018exome}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=bd8c0eab70cc8b03f2d28bfdaa8721c7}{%
+           family={Gosso},
+           familyi={G\bibinitperiod},
+           given={Maria\bibnamedelima Florencia},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=723179f38c052da742a6e95d0bdbecda}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d67f503fd7e7b575fe3f083038c5ccf5}{%
+           family={Mejico},
+           familyi={M\bibinitperiod},
+           given={Guadalupe},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6d567b379ae5e65dc7946fefcd6dcb23}{%
+           family={Madeira},
+           familyi={M\bibinitperiod},
+           given={Fernanda},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7fac4b4617013ce503b846abd1bccbc}{%
+           family={Fay},
+           familyi={F\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54aefd6cd2ae6832fc3f364410c09215}{%
+           family={Klurfan},
+           familyi={K\bibinitperiod},
+           given={Melina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c0309e1a7c12c0f7d34cf7cf1ddfdc77}{%
+           family={Vazquez},
+           familyi={V\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{8f35851d7f8bca4d87fd48a793f4de5f}
+      \strng{fullhash}{b17576e9c3eb4b65a9a00515178ec01e}
+      \strng{bibnamehash}{8f35851d7f8bca4d87fd48a793f4de5f}
+      \strng{authorbibnamehash}{8f35851d7f8bca4d87fd48a793f4de5f}
+      \strng{authornamehash}{8f35851d7f8bca4d87fd48a793f4de5f}
+      \strng{authorfullhash}{b17576e9c3eb4b65a9a00515178ec01e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human genome variation}
+      \field{title}{Exome-first approach identified novel INDELs and gene deletions in Mowat-Wilson Syndrome patients}
+      \field{volume}{5}
+      \field{year}{2018}
+    \endentry
+    \entry{pirola2018rare}{article}{}
+      \name{author}{10}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54f9da9fc5bbb91b0d03cd691f8632e2}{%
+           family={Flichman},
+           familyi={F\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c0d4eeadc8e707965a2b305585c11714}{%
+           family={Fern{á}ndez\bibnamedelima Gianotti},
+           familyi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a21620883e9e1cdd99f0f5b151973ac2}{%
+           family={San\bibnamedelima Martino},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8b05aa8149349517d2de2d6731b5f22c}{%
+           family={Garaycoechea},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f4243389770838627c77501c0a9773c7}{%
+           family={Gazzi},
+           familyi={G\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b95021c31c9d16d63dfe7fb4bdb8969a}
+      \strng{fullhash}{1b924fb8f82ee3155c4f055c328ac4ba}
+      \strng{bibnamehash}{b95021c31c9d16d63dfe7fb4bdb8969a}
+      \strng{authorbibnamehash}{b95021c31c9d16d63dfe7fb4bdb8969a}
+      \strng{authornamehash}{b95021c31c9d16d63dfe7fb4bdb8969a}
+      \strng{authorfullhash}{1b924fb8f82ee3155c4f055c328ac4ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hepatology communications}
+      \field{number}{9}
+      \field{title}{A rare nonsense mutation in the glucokinase regulator gene is associated with a rapidly progressive clinical form of nonalcoholic steatohepatitis}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{1030\bibrangedash 1036}
+      \range{pages}{7}
+    \endentry
+    \entry{pinero2017case}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=ed8ad0f47258fa0a8a1ba07525edf3ff}{%
+           family={Pi{ñ}ero},
+           familyi={P\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=c9cfb5b58d0ebcfd936a38a5bc327306}{%
+           family={Vazquez},
+           familyi={V\bibinitperiod},
+           given={Martin\bibnamedelima P},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=f24ce4af2da4d8b889f604f147431793}{%
+           family={Bare},
+           familyi={B\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52dd9abb94a60faa9add9bbd9217b4fa}{%
+           family={Mendizabal},
+           familyi={M\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=350ecdada20f8e01128d3b24eee44a1a}{%
+           family={Sciara},
+           familyi={S\bibinitperiod},
+           given={Mariela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a65bc068fd52af35fb16028d349e47b5}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d7fac4b4617013ce503b846abd1bccbc}{%
+           family={Fay},
+           familyi={F\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4bf7a7ca0004f72a529857781725fe77}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{acf7d05b5ba147dcd54ee3ba18507b1f}
+      \strng{fullhash}{e99b579837a39c7c3d73cf2cfea5826a}
+      \strng{bibnamehash}{acf7d05b5ba147dcd54ee3ba18507b1f}
+      \strng{authorbibnamehash}{acf7d05b5ba147dcd54ee3ba18507b1f}
+      \strng{authornamehash}{acf7d05b5ba147dcd54ee3ba18507b1f}
+      \strng{authorfullhash}{e99b579837a39c7c3d73cf2cfea5826a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Case-control study highlights a different gut microbiome in cirrhotic patients with and without hepatocellular carcinoma}
+      \field{year}{2017}
+      \field{pages}{125575}
+      \range{pages}{1}
+    \endentry
+    \entry{sookoian2017search}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{uniquename=1,uniquepart=given,hash=88b871c7b55c415e286d2c6a12ae4f59}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=2bd76957ab282b4e67a65d8b5c933ae5}{%
+           family={Gianotti},
+           familyi={G\bibinitperiod},
+           given={Tomas\bibnamedelima Fernandez},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=84a10282c4a291954861a402b11798a3}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hernan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c87d6bcf359b65db07751a39fbe3f95}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=06f4d5e130f61ff34bf91863b4167f97}{%
+           family={Castano},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {WILEY 111 RIVER ST, HOBOKEN 07030-5774, NJ USA}%
+      }
+      \strng{namehash}{687714db6b908f60935a52aca1fc9dd0}
+      \strng{fullhash}{b2587e2fd889f824cf864c440d68771b}
+      \strng{bibnamehash}{687714db6b908f60935a52aca1fc9dd0}
+      \strng{authorbibnamehash}{687714db6b908f60935a52aca1fc9dd0}
+      \strng{authornamehash}{687714db6b908f60935a52aca1fc9dd0}
+      \strng{authorfullhash}{b2587e2fd889f824cf864c440d68771b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{HEPATOLOGY}
+      \field{title}{Search for Rare Mutations in Metabolic Pathways Associated with Nonalcoholic Fatty Liver Disease: The role of Glucokinase regulator (GCKR) Sequence Variation}
+      \field{volume}{66}
+      \field{year}{2017}
+      \field{pages}{1141A\bibrangedash 1142A}
+      \range{pages}{-1}
+    \endentry
+    \entry{sookoian2017genetic}{article}{}
+      \name{author}{7}{uniquelist=2}{%
+        {{uniquename=1,uniquepart=given,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=720502fcc4313edbfb466640a7d8421d}{%
+           family={Salatino},
+           familyi={S\bibinitperiod},
+           given={Adri{á}n},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2bd76957ab282b4e67a65d8b5c933ae5}{%
+           family={Gianotti},
+           familyi={G\bibinitperiod},
+           given={Tomas\bibnamedelima Fernandez},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Impact Journals, LLC}%
+      }
+      \strng{namehash}{8f891cf9dfd04c19e08a6d30f87c11ec}
+      \strng{fullhash}{eb23986e3afa4a312cf0ccdce58ad4a3}
+      \strng{bibnamehash}{8f891cf9dfd04c19e08a6d30f87c11ec}
+      \strng{authorbibnamehash}{8f891cf9dfd04c19e08a6d30f87c11ec}
+      \strng{authornamehash}{8f891cf9dfd04c19e08a6d30f87c11ec}
+      \strng{authorfullhash}{eb23986e3afa4a312cf0ccdce58ad4a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oncotarget}
+      \field{number}{14}
+      \field{title}{Genetic variation in long noncoding RNAs and the risk of nonalcoholic fatty liver disease}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{pages}{22917}
+      \range{pages}{1}
+    \endentry
+    \entry{monzon2016codnas}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=401f6d4bbc0d78df3770e9828d240665}{%
+           family={Monzon},
+           familyi={M\bibinitperiod},
+           given={Alexander\bibnamedelima Miguel},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8c7880c5e0d53cd5a9c73268d185dfa0}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima Oscar},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8d80f6912d76205e4112dae858061303}{%
+           family={Fornasari},
+           familyi={F\bibinitperiod},
+           given={Mar{ı́}a\bibnamedelima Silvina},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2a4f0de83a6248206e7eaa9e9c19877d}{%
+           family={Parisi},
+           familyi={P\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d961b2ff53c77cc39ba4310849a56068}
+      \strng{fullhash}{0d88872c4e535f8f9f9f7aca09113078}
+      \strng{bibnamehash}{d961b2ff53c77cc39ba4310849a56068}
+      \strng{authorbibnamehash}{d961b2ff53c77cc39ba4310849a56068}
+      \strng{authornamehash}{d961b2ff53c77cc39ba4310849a56068}
+      \strng{authorfullhash}{0d88872c4e535f8f9f9f7aca09113078}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Database}
+      \field{title}{CoDNaS 2.0: a comprehensive database of protein conformational diversity in the native state}
+      \field{volume}{2016}
+      \field{year}{2016}
+    \endentry
+    \entry{sookoian2016serum}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{uniquelist=2}{%
+        {{uniquename=1,uniquepart=given,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d998cc37c6f449f25e49220750d40b92}{%
+           family={Scian},
+           familyi={S\bibinitperiod},
+           given={Romina},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c0d4eeadc8e707965a2b305585c11714}{%
+           family={Fern{á}ndez\bibnamedelima Gianotti},
+           familyi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Tomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=bc9cdfe5f4910850c63974b38b03ff25}{%
+           family={Gaj},
+           familyi={G\bibinitperiod},
+           given={Graciela},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a21620883e9e1cdd99f0f5b151973ac2}{%
+           family={San\bibnamedelima Martino},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d912b289a23b5a5a5a7e9a718ce92879}{%
+           family={Sevic},
+           familyi={S\bibinitperiod},
+           given={Ina},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54f9da9fc5bbb91b0d03cd691f8632e2}{%
+           family={Flichman},
+           familyi={F\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b26905bb44cb1e6c4ce944d6df350105}
+      \strng{fullhash}{ce6a06c56b5e0cae94b94b1bc7044a7b}
+      \strng{bibnamehash}{b26905bb44cb1e6c4ce944d6df350105}
+      \strng{authorbibnamehash}{b26905bb44cb1e6c4ce944d6df350105}
+      \strng{authornamehash}{b26905bb44cb1e6c4ce944d6df350105}
+      \strng{authorfullhash}{ce6a06c56b5e0cae94b94b1bc7044a7b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American journal of clinical nutrition}
+      \field{number}{2}
+      \field{title}{Serum aminotransferases in nonalcoholic fatty liver disease are a signature of liver metabolic perturbations at the amino acid and Krebs cycle level, 2}
+      \field{volume}{103}
+      \field{year}{2016}
+      \field{pages}{422\bibrangedash 434}
+      \range{pages}{13}
+    \endentry
+    \entry{sookoian2016mitochondrial}{article}{}
+      \name{author}{9}{uniquelist=2}{%
+        {{uniquename=1,uniquepart=given,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=54f9da9fc5bbb91b0d03cd691f8632e2}{%
+           family={Flichman},
+           familyi={F\bibinitperiod},
+           given={Diego},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d998cc37c6f449f25e49220750d40b92}{%
+           family={Scian},
+           familyi={S\bibinitperiod},
+           given={Romina},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2a2cef632f4625855ba536d91d196cc}{%
+           family={Gianotti},
+           familyi={G\bibinitperiod},
+           given={Tomas\bibnamedelima Fern{á}ndez},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9f5bfeb824ec05865218ba213dcbbb8a}{%
+           family={Martino},
+           familyi={M\bibinitperiod},
+           given={Julio\bibnamedelima San},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Ltd Chichester, UK}%
+      }
+      \strng{namehash}{d2dea2855333d08383800c3fc5d74096}
+      \strng{fullhash}{80e628810eabe8c06a3f075ddffedb64}
+      \strng{bibnamehash}{d2dea2855333d08383800c3fc5d74096}
+      \strng{authorbibnamehash}{d2dea2855333d08383800c3fc5d74096}
+      \strng{authornamehash}{d2dea2855333d08383800c3fc5d74096}
+      \strng{authorfullhash}{80e628810eabe8c06a3f075ddffedb64}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of pathology}
+      \field{number}{4}
+      \field{title}{Mitochondrial genome architecture in non-alcoholic fatty liver disease}
+      \field{volume}{240}
+      \field{year}{2016}
+      \field{pages}{437\bibrangedash 449}
+      \range{pages}{13}
+    \endentry
+    \entry{pirola2015epigenetic}{article}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medicine (Baltimore)}
+      \field{number}{36}
+      \field{title}{Epigenetic Modifications in the Biology of Nonalcoholic Fatty Liver Disease: The Role of DNA Hydroxymethylation and TET Proteins}
+      \field{volume}{94}
+      \field{year}{2015}
+      \field{pages}{e1480}
+      \range{pages}{-1}
+      \warn{\item Name "Pirola CJ, Scian R, Gianotti TF, Dopazo H, Rohr C, Martino JS, Casta{ñ}o GO, Sookoian S" has too many commas: skipping name}
+    \endentry
+    \entry{parra2015insect}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=1,uniquepart=given,hash=490165187e8729464a611856a8338809}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={R\bibnamedelima Gonzalo},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=0c87d6bcf359b65db07751a39fbe3f95}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=045ae40c9004e7ea67719a858d70fab1}{%
+           family={Koile},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5db4bb1c8f9f1aab35d38f7bab636f0}{%
+           family={Perez-Castro},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3941aea346dbce4d24c9de06832e9b27}{%
+           family={Yankilevich},
+           familyi={Y\bibinitperiod},
+           given={Patricio},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e15834affd6ab7c4e984a6bacc68b3f7}
+      \strng{fullhash}{0dd9145bbb226a88db83143852f272a8}
+      \strng{bibnamehash}{e15834affd6ab7c4e984a6bacc68b3f7}
+      \strng{authorbibnamehash}{e15834affd6ab7c4e984a6bacc68b3f7}
+      \strng{authornamehash}{e15834affd6ab7c4e984a6bacc68b3f7}
+      \strng{authorfullhash}{0dd9145bbb226a88db83143852f272a8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{8}
+      \field{title}{INSECT 2.0: a web-server for genome-wide cis-regulatory modules prediction}
+      \field{volume}{32}
+      \field{year}{2015}
+      \field{pages}{1229\bibrangedash 1231}
+      \range{pages}{3}
+    \endentry
+    \entry{pirola2015mitochondrial}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d998cc37c6f449f25e49220750d40b92}{%
+           family={Scian},
+           familyi={S\bibinitperiod},
+           given={Romina},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c87d6bcf359b65db07751a39fbe3f95}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hepatology}%
+      }
+      \strng{namehash}{6466f36d3cde29b0f299bf19e0ad3272}
+      \strng{fullhash}{2644b49038bd544da1d9f0f370b64bdf}
+      \strng{bibnamehash}{6466f36d3cde29b0f299bf19e0ad3272}
+      \strng{authorbibnamehash}{6466f36d3cde29b0f299bf19e0ad3272}
+      \strng{authornamehash}{6466f36d3cde29b0f299bf19e0ad3272}
+      \strng{authorfullhash}{2644b49038bd544da1d9f0f370b64bdf}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hepatology}
+      \field{title}{mitochondrial Mutator-phenotype May Be Related to Pathogenesis of Nonalcoholic Fatty Liver Disease: Insights from Deep Sequencing of Liver Mitochondrial Genomes: 2217}
+      \field{volume}{62}
+      \field{year}{2015}
+      \field{pages}{1288A}
+      \range{pages}{-1}
+    \endentry
+    \entry{pirola2014novel}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2a2cef632f4625855ba536d91d196cc}{%
+           family={Gianotti},
+           familyi={G\bibinitperiod},
+           given={Tomas\bibnamedelima Fern{á}ndez},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hepatology}%
+      }
+      \strng{namehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{fullhash}{56149a1a06247999663f7439c52a07a1}
+      \strng{bibnamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authorbibnamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authornamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authorfullhash}{56149a1a06247999663f7439c52a07a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hepatology}
+      \field{title}{a Novel Epigenetic Landscape in the Biology of Nonalcoholic Fatty Liver Disease: The role of 5-hydroxymethylcytosine and Sequence Variation in Ten-eleven Translocation Family of Proteins: 215}
+      \field{volume}{60}
+      \field{year}{2014}
+      \field{pages}{306A\bibrangedash 307A}
+      \range{pages}{-1}
+    \endentry
+    \entry{pirola2014variants}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=61fae375ab7272e462adcf8b0cdfb3b0}{%
+           family={Pirola},
+           familyi={P\bibinitperiod},
+           given={Carlos\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f2a2cef632f4625855ba536d91d196cc}{%
+           family={Gianotti},
+           familyi={G\bibinitperiod},
+           given={Tomas\bibnamedelima Fern{á}ndez},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=68fb72da1297831b2ee35b247104c311}{%
+           family={Dopazo},
+           familyi={D\bibinitperiod},
+           given={Hern{á}n},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e629ddbd93fc4856fc47a0933e8d95c6}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3e3243895007677e16cfbb73e9b4cfdc}{%
+           family={Casta{ñ}o},
+           familyi={C\bibinitperiod},
+           given={Gustavo\bibnamedelima O},
+           giveni={G\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=24d1711fe761e387fe01c04961f1cc21}{%
+           family={Sookoian},
+           familyi={S\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hepatology}%
+      }
+      \strng{namehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{fullhash}{56149a1a06247999663f7439c52a07a1}
+      \strng{bibnamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authorbibnamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authornamehash}{aed47a46312a5c801631b626463f6fef}
+      \strng{authorfullhash}{56149a1a06247999663f7439c52a07a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hepatology}
+      \field{title}{variants in Long non-coding Rnas lncrnas-genomic Regions may Contribute to Nonalcoholic Fatty Liver Disease Severity}
+      \field{volume}{60}
+      \field{year}{2014}
+      \field{pages}{305A}
+      \range{pages}{-1}
+    \endentry
+    \entry{rohr2013first}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=1,uniquepart=given,hash=0c87d6bcf359b65db07751a39fbe3f95}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=7af5611545288302a669129057d04f3a}{%
+           family={Levin},
+           familyi={L\bibinitperiod},
+           given={Laura\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=78175a601c93646d7cac01a637b2aefa}{%
+           family={Mentaberry},
+           familyi={M\bibinitperiod},
+           given={Alejandro\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1f5ec8e1ec4749b7129503b1f801ee58}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={Sonia\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{d73470c49c1e423dfd350e8e3f2eaa29}
+      \strng{fullhash}{d15530599b4d93d1e36d4b81f565d9ed}
+      \strng{bibnamehash}{d73470c49c1e423dfd350e8e3f2eaa29}
+      \strng{authorbibnamehash}{d73470c49c1e423dfd350e8e3f2eaa29}
+      \strng{authornamehash}{d73470c49c1e423dfd350e8e3f2eaa29}
+      \strng{authorfullhash}{d15530599b4d93d1e36d4b81f565d9ed}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{12}
+      \field{title}{A first insight into Pycnoporus sanguineus BAFC 2126 transcriptome}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{e81033}
+      \range{pages}{-1}
+    \endentry
+    \entry{rohr2013insect}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=1,uniquepart=given,hash=0c87d6bcf359b65db07751a39fbe3f95}{%
+           family={Rohr},
+           familyi={R\bibinitperiod},
+           given={Cristian\bibnamedelima O},
+           giveni={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=1,uniquepart=given,hash=490165187e8729464a611856a8338809}{%
+           family={Parra},
+           familyi={P\bibinitperiod},
+           given={R\bibnamedelima Gonzalo},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=3941aea346dbce4d24c9de06832e9b27}{%
+           family={Yankilevich},
+           familyi={Y\bibinitperiod},
+           given={Patricio},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5db4bb1c8f9f1aab35d38f7bab636f0}{%
+           family={Perez-Castro},
+           familyi={P\bibinithyphendelim C\bibinitperiod},
+           given={Carolina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{7c648b46bf02273e054554d133a9e419}
+      \strng{fullhash}{420c7eab8d2e0af8aea212e0497dca68}
+      \strng{bibnamehash}{7c648b46bf02273e054554d133a9e419}
+      \strng{authorbibnamehash}{7c648b46bf02273e054554d133a9e419}
+      \strng{authornamehash}{7c648b46bf02273e054554d133a9e419}
+      \strng{authorfullhash}{420c7eab8d2e0af8aea212e0497dca68}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{number}{22}
+      \field{title}{INSECT: IN-silico SEarch for Co-occurring Transcription factors}
+      \field{volume}{29}
+      \field{year}{2013}
+      \field{pages}{2852\bibrangedash 2858}
+      \range{pages}{7}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
