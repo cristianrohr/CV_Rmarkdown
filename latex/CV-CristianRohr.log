@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.4.24)  16 OCT 2019 09:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.2.15)  2 JAN 2020 11:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV-CristianRohr.tex
 (./CV-CristianRohr.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 10 language(s) loaded.
 (./altacv.cls
 Document Class: altacv 2018/12/01 AltaCV v1.1.5, yet another alternative class 
 for a résumé/curriculum vitae.
@@ -1321,7 +1321,7 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 File: CR_foto.jpg Graphic file (type bmp)
 <CR_foto.jpg>
  (./sample-p1sidebar.tex
-Underfull \hbox (badness 1102) in paragraph at lines 46--49
+Underfull \hbox (badness 1019) in paragraph at lines 46--49
 [][]  [] 
  []
 
@@ -1329,17 +1329,26 @@ Underfull \hbox (badness 1102) in paragraph at lines 46--49
 
 
 ] (./page2sidebar.tex
-Underfull \hbox (badness 4205) in paragraph at lines 34--36
+Underfull \hbox (badness 4279) in paragraph at lines 34--36
 []\TU/Lato(0)/m/n/10 Proyecto Genoma (MINCyT- 
  []
 
 ) [2
 
 ] (./page3sidebar.tex)
-Missing character: There is no ́ in font Lato Regular/OT:script=latn;language=D
-FLT;mapping=tex-text;!
+Overfull \hbox (3.018pt too wide) in paragraph at lines 231--231
+[][][]\TU/Lato(0)/m/n/10 Sookoian, Silvia, Diego Flichman, et al. (2016). “Mito
+chondrial genome 
+ []
 
-Overfull \hbox (16.74626pt too wide) in paragraph at lines 231--231
+
+Overfull \hbox (4.07132pt too wide) in paragraph at lines 231--231
+[][][]\TU/Lato(0)/m/n/10 Parra, R Gonzalo et al. (2015). “INSECT 2.0: a web-ser
+ver for genome- 
+ []
+
+
+Overfull \hbox (21.96135pt too wide) in paragraph at lines 231--231
 \TU/Lato(0)/m/n/10 wide cis-regulatory modules prediction”. In: \TU/Lato(0)/m/i
 t/10 Bioinformatics \TU/Lato(0)/m/n/10 32.8, pp. 1229– 
  []
@@ -1352,12 +1361,12 @@ Package logreq Info: Writing requests to 'CV-CristianRohr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33928 strings out of 493007
- 723150 string characters out of 6136719
- 1184824 words of memory out of 5000000
- 37473 multiletter control sequences out of 15000+600000
+ 33928 strings out of 494906
+ 723150 string characters out of 6175976
+ 1179960 words of memory out of 5000000
+ 37358 multiletter control sequences out of 15000+600000
  530731 words of font info for 52 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
+ 40 hyphenation exceptions out of 8191
  71i,12n,91p,10433b,4233s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on CV-CristianRohr.pdf (3 pages).
