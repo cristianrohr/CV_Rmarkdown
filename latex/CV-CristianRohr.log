@@ -1,15 +1,15 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.2.15)  2 JAN 2020 11:53
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.5.21)  10 JUL 2020 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV-CristianRohr.tex
 (./CV-CristianRohr.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 10 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./altacv.cls
 Document Class: altacv 2018/12/01 AltaCV v1.1.5, yet another alternative class 
 for a résumé/curriculum vitae.
-(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+(./extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -1325,35 +1325,161 @@ Underfull \hbox (badness 1019) in paragraph at lines 46--49
 [][]  [] 
  []
 
-) [1
+)
+Overfull \hbox (1.28964pt too wide) in paragraph at lines 128--129
+[]\TU/Lato(0)/m/n/10 Desarrolle una aplicación R/Shiny para el análisis y selec
+ción de even- 
+ []
+
+
+Overfull \hbox (10.07466pt too wide) in paragraph at lines 146--147
+[]\TU/Lato(0)/m/n/10 Presentar oportunidades y riesgos a la dirección para la i
+mplementación 
+ []
+
+
+Overfull \hbox (9.70465pt too wide) in paragraph at lines 156--157
+[]\TU/Lato(0)/m/n/10 Diseño, implementación y puesta en producción del entorno 
+y pipelines 
+ []
+
+[1
 
 
 ] (./page2sidebar.tex
-Underfull \hbox (badness 4279) in paragraph at lines 34--36
-[]\TU/Lato(0)/m/n/10 Proyecto Genoma (MINCyT- 
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+[]\TU/Lato(0)/m/n/10 Beca de Maestría en Ciencia y Tecnología
  []
 
-) [2
 
-] (./page3sidebar.tex)
-Overfull \hbox (3.018pt too wide) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\TU/Lato(0)/m/n/10 para profesionales argentinos en el Reino de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]\TU/Lato(0)/m/n/12 Beca interna doctoral para temas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+[]\TU/Lato(0)/m/n/10 Laboratorio de Genómica Médica y Evolu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+\TU/Lato(0)/m/n/10 ción - Instituto de Ecología, Genética y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+\TU/Lato(0)/m/n/10 Evolución de Buenos Aires. Director: Dr.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\TU/Lato(0)/m/n/12 Beca inicial en el Área de Bioinfor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+[]\TU/Lato(0)/m/n/10 Proyecto Genoma (MINCyT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+\TU/Lato(0)/m/n/10 CYTED).Laboratorio de Agrobiotecnología.
+ []
+
+) [2] (./page3sidebar.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\TU/Lato(0)/m/n/12 Proyecto DEANN, convocatoria
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[][]\TU/Lato(0)/bx/n/10 Programa Marie Curie PIRSES-GA-2013-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\TU/Lato(0)/m/n/10 Universitat Pompeu Fabra. Departamento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\TU/Lato(0)/m/n/10 Centro de Investigación Príncipe Fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\TU/Lato(0)/m/n/10 lipe (Valencia). Laboratorio de Genética
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\TU/Lato(0)/m/n/12 Human Genome Tour 2016: From
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\TU/Lato(0)/m/n/12 NGS Technologies to Evolutionary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]\TU/Lato(0)/m/n/12 Genética de Poblaciones Parte II:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\TU/Lato(0)/m/n/12 Genética de Poblaciones Parte I:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\TU/Lato(0)/m/n/12 Introducción al Análisis de Datos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]\TU/Lato(0)/m/n/12 RNAseq and functional annotation.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]\TU/Lato(0)/m/n/12 Assembly and Assembly Validation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\TU/Lato(0)/m/n/12 Lenguaje R aplicado a la Bioinfor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[][]\TU/Lato(0)/bx/n/10 Facultad de Ingeniería, Universidad de
+ []
+
+) [3]
+Overfull \hbox (3.018pt too wide) in paragraph at lines 258--258
 [][][]\TU/Lato(0)/m/n/10 Sookoian, Silvia, Diego Flichman, et al. (2016). “Mito
 chondrial genome 
  []
 
 
-Overfull \hbox (4.07132pt too wide) in paragraph at lines 231--231
+Overfull \hbox (4.07132pt too wide) in paragraph at lines 258--258
 [][][]\TU/Lato(0)/m/n/10 Parra, R Gonzalo et al. (2015). “INSECT 2.0: a web-ser
 ver for genome- 
  []
 
 
-Overfull \hbox (21.96135pt too wide) in paragraph at lines 231--231
+Overfull \hbox (21.96135pt too wide) in paragraph at lines 258--258
 \TU/Lato(0)/m/n/10 wide cis-regulatory modules prediction”. In: \TU/Lato(0)/m/i
 t/10 Bioinformatics \TU/Lato(0)/m/n/10 32.8, pp. 1229– 
  []
 
-[3
+[4
 
 ] (./CV-CristianRohr.aux)
 Package logreq Info: Writing requests to 'CV-CristianRohr.run.xml'.
@@ -1361,12 +1487,12 @@ Package logreq Info: Writing requests to 'CV-CristianRohr.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33928 strings out of 494906
- 723150 string characters out of 6175976
- 1179960 words of memory out of 5000000
- 37358 multiletter control sequences out of 15000+600000
+ 33927 strings out of 493007
+ 723005 string characters out of 6136719
+ 1181825 words of memory out of 5000000
+ 37473 multiletter control sequences out of 15000+600000
  530731 words of font info for 52 fonts, out of 8000000 for 9000
- 40 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  71i,12n,91p,10433b,4233s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on CV-CristianRohr.pdf (3 pages).
+Output written on CV-CristianRohr.pdf (4 pages).
